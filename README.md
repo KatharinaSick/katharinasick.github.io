@@ -1,6 +1,6 @@
 # Developer Landing Page
 
-Minimal landing page forked from https://github.com/flexdinesh/dev-landing-page.
+Minimal landing page forked from https://github.com/flexdinesh/dev-landing-page. Available at https://ksick.dev.
 
 ## Themes
 
